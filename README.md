@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabeer75&label=Profile%20views&color=0e75b6&style=flat" alt="sabeer75" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Dev**
+- 🌱 I’m currently learning **Full Stack Web Dev** and **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sabeer75](https://github.com/Sabeer75)
 
